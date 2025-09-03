@@ -67,7 +67,7 @@ namespace GuessTheNumber
             {
                 p.ShowStats();
             }
-            
+            Console.ReadLine();
             /*foreach (Player p in list) 
             {
                 Console.WriteLine(p.Name);
